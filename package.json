@@ -1,0 +1,19 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "Test-Alphabetical-Sentences",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martaluiz/Test-Alphabetical-Sentences.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/martaluiz/Test-Alphabetical-Sentences/issues"
+  },
+  "homepage": "https://github.com/martaluiz/Test-Alphabetical-Sentences#readme"
+}
